@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local environment
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Raw downloaded files and local caches
+data/raw/
+*.pdf
+*.tmp
+*.cache
+
+# Experimental/test outputs
+data/processed/*teste*/
+data/processed/*validacao*/
+data/processed/*cache*/
+
+# Original design reference archive
+Criar dashboard.zip
+
+# Logs
+*.log
+
