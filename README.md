@@ -4,6 +4,8 @@ Projeto de analise de dados sobre o Campeonato Brasileiro Serie A na era dos pon
 
 O objetivo e transformar dados historicos do Brasileirao em uma experiencia visual de exploracao: desempenho esportivo, indicadores financeiros por mandante, ranking de clubes, calendario de partidas e confrontos diretos.
 
+![Preview do dashboard Brasileirao Analytics](docs/images/dashboard-overview.png)
+
 ## Preview
 
 Dashboard principal:
@@ -135,7 +137,5 @@ Projeto em evolucao, com foco em portfolio de analise de dados. Proximas melhori
 
 - publicar uma versao navegavel via GitHub Pages ou Streamlit;
 - adicionar testes automatizados de consistencia dos dados;
-- incluir capturas de tela no README;
 - criar uma camada de dados menor para demonstracao publica;
 - documentar os principais insights encontrados.
-
